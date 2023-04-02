@@ -1,0 +1,11 @@
+{
+  "antiCreateChannel": true,
+  "antiDeleteChannel": true,
+  "antiBot": true,
+  "antiCreateRole": true,
+  "antiDeleteRole": true,
+  "antiBadWords": false,
+  "antiLink": true,
+  "antiGuildManage": true,
+  "antiWebhook": true
+}
